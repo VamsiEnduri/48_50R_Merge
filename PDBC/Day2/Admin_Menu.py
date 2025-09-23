@@ -65,3 +65,6 @@ def delete_customer():
     dbC.commit()
     # dbC.commit()
     print("customer deletd successfully...........")
+
+
+
